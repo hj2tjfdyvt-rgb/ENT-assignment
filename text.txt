@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Okorie Hannah Mba - Personal Blog</title>
+</head>
+<body bgcolor="#f4f7fc">
+<table width="100%" bgcolor="#4a90e2">
+    <tr>
+        <td align="center">
+            <font color="white">
+                <h1>Okorie Hannah Mba</h1>
+                <h3>Public Health Student | 300 Level</h3>
+            </font>
+        </td>
+    </tr>
+</table>
+
+<center>
+    <h2>About Me</h2>
+    <p>
+        Hello and welcome to my personal blog! My name is
+        <b>Okorie Hannah Mba</b>. I am a Public Health student
+        currently in my 300 level. I am a cheerful, creative,
+        and positive-minded person who enjoys making a positive
+        impact on others.
+    </p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Playing musical instruments</li>
+        <li>Singing</li>
+        <li>Swimming</li>
+    </ul>
+
+    <h2>My Mission</h2>
+    <p>
+        I aim to promote healthy living, contribute positively
+        to society, and inspire others through kindness,
+        creativity, and dedication.
+    </p>
+</center>
+
+<hr>
+
+<center>
+    <p>&copy; 2025 Okorie Hannah Mba. All Rights Reserved.</p>
+</center>
+</body>
+</html>
